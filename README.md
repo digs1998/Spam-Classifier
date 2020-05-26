@@ -3,7 +3,7 @@ Let's Get started, I have used datasets from UCI Spam dataset : https://www.kagg
 
 Now, here we start with spam classification so we will allotting binary values to labels so that Machine Learning model can work efficiently in predicting the results
 
-Steps taken
+# Steps taken
 
 1.Load the libraries
 
